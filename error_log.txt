@@ -1,0 +1,9 @@
+2023-11-01 19:14:45,730 - ERROR - Failed to send email: division by zero
+2023-11-01 19:15:06,918 - ERROR - Failed to send email: division by zero
+2023-11-01 19:15:12,364 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials mn15-20020a0562145ecf00b00656329bb3b1sm1733068qvb.10 - gsmtp')
+19:16:43 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials n11-20020a05620a222b00b007743360b3fasm1698535qkh.34 - gsmtp')
+2023-17-11/01/23 19:17:33 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials mg2-20020a056214560200b0065afcf19e23sm1708449qvb.62 - gsmtp')
+11/01/23 19:18:11 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials nf4-20020a0562143b8400b00655d6d31470sm1734244qvb.43 - gsmtp')
+11/01/23 19:19:28 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials fb17-20020ad44f11000000b0064f43efc844sm1734170qvb.32 - gsmtp')
+11/01/23 19:26:42 - ERROR - Failed to send email: (534, b'5.7.9 Application-specific password required. Learn more at\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor g7-20020a0cd7c7000000b00641899958efsm1725455qvj.130 - gsmtp')
+11/01/23 19:27:15 - ERROR - Failed to send email: [Errno -2] Name or service not known
